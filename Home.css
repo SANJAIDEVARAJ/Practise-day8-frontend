@@ -1,0 +1,65 @@
+body {
+    font-size: 12px;
+    font-family: "Open Sans" serif;
+}
+
+/* div {
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+} */
+
+#navbar-brand h1 {
+    background: #DCDCDC;
+}
+
+.navbar-brand {
+    padding: 0 15px;
+    height: 15px;
+    line-height: 15px;
+}
+
+.thumb {
+    background: #DCDCDC;
+    margin: 50px;
+    margin-left: 250px;
+    border-radius: 15px;
+}
+
+.input-box {
+    height: 150px;
+    width: 250px;
+    /* border-radius: 25px; */
+}
+
+.main-container {
+    border-radius: 15px;
+    background: #DCDCDC;
+    text-align: justify;
+    margin: 5px;
+    padding: 5px;
+    width: 600px;
+}
+
+.main-post {
+    background: pink;
+    border-radius: 15px;
+    height: 350px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.main-advertising {
+    background: pink;
+    border-radius: 15px;
+    margin: 50px;
+    padding-top: 100px;
+    height: 350px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.home-container {
+    width: 950px;
+    margin: 5px;
+}
